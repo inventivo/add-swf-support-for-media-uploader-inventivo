@@ -1,10 +1,10 @@
-![Illustration: Scroll to top | inventivo](https://ps.w.org/scroll-to-top-inventivo/assets/banner-772x250.jpg?rev=1910348)
+![Illustration: Add SWF Support for Media Uploader | inventivo](https://ps.w.org/add-swf-support-for-media-uploader-inventivo/assets/banner-772x250.png?rev=1953069)
 
 # Add SWF Support for Media Uploader | inventivo
 
-Add the missing Scroll to top. Visit our Website in order to find more WordPress plugins.
+WordPress does not allow to upload .swf files out of the box. This plugin adds SWF support to the media uploader.
 
-Visit our <a href="https://www.inventivo.de/werbeagentur"> website</a> in order to get more free WordPress plugins.
+Visit our Website in order get more handy and <a href="https://www.inventivo.de/wordpress-agentur/wordpress-plugins">free WordPress Plugins</a>.
 
 **Small and simple:**
 * Responsive - fits to all screens
@@ -12,11 +12,6 @@ Visit our <a href="https://www.inventivo.de/werbeagentur"> website</a> in order 
 * Lighweight code
 
 **Get your copy of the Add SWF Support for Media Uploader Plugin now!**
-
-## Screenshots
-
-![Illustration: Scroll to top - Screenshot 1](https://ps.w.org/scroll-to-top-inventivo/trunk/screenshot-1.png?rev=1939192)
-![Illustration: Scroll to top - Screenshot 2](https://ps.w.org/scroll-to-top-inventivo/trunk/screenshot-2.png?rev=1939192)
 
 ### Prerequisites
 
@@ -28,7 +23,7 @@ Visit our <a href="https://www.inventivo.de/werbeagentur"> website</a> in order 
 Use WordPress' Add New Plugin feature, searching "Add SWF Support for Media Uploader | inventivo", or download the archive and:
 
 1. Unzip the archive on your computer  
-2. Upload `inventivo-addswfsupport` directory to the `/wp-content/plugins/` directory
+2. Upload `inventivo-addswfsupport-for-media-uploader` directory to the `/wp-content/plugins/` directory
 3. Activate the plugin through the 'Plugins' menu in WordPress
 
 

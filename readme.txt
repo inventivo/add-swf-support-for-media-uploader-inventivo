@@ -1,4 +1,4 @@
-=== Scroll to top | inventivo ===
+=== Add SWF Support for Media Uploader | inventivo ===
 Contributors: inventivogermany
 Plugin Name:  Add SWF Support for Media Uploader | inventivo
 Plugin URI:   https://www.inventivo.de/wordpress-agentur/wordpress-plugins
@@ -22,7 +22,7 @@ Add SWF Support for Media Uploader
 
 WordPress does not allow to upload .svg files out of the box. This plugin adds SWF support to the media uploader.
 
-Visit our <a href="https://www.inventivo.de">Website</a> in order to see the plugin in action.
+Visit our Website in order get more handy and <a href="https://www.inventivo.de/wordpress-agentur/wordpress-plugins">free WordPress Plugins</a>.
 
 Inventivo WordPress plugins are small and simple:
 - Responsive - fits to all screens
