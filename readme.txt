@@ -3,13 +3,13 @@ Contributors: inventivogermany
 Plugin Name:  Add SWF Support for Media Uploader | inventivo
 Plugin URI:   https://www.inventivo.de/wordpress-agentur/wordpress-plugins
 Description:  Add SWF Support for Media Uploader
-Version:      0.0.2
+Version:      0.0.3
 Author:       Nils Harder
 Author URI:   https://www.inventivo.de
 Tags: svg, svg media uploader, upload svg
 Requires at least: 3.0
-Tested up to: 4.9.8
-Stable tag: 0.0.2
+Tested up to: 5.2.2
+Stable tag: 0.0.3
 Text Domain: inventivo-addsvgsupport
 Domain Path: /languages
 License:      GPL2
@@ -46,9 +46,7 @@ Use WordPress' Add New Plugin feature, searching "Add SWF Support for Media Uplo
 
 == Frequently Asked Questions ==
 
-
 == Screenshots ==
 
-
 == Changelog ==
-
+0.0.3   Code cleanup
