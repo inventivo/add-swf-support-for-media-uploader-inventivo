@@ -1,0 +1,14 @@
+{
+  "name": "inventivo/add-swf-support-for-media-uploader-inventivo",
+  "description": "Add swf-support to the WordPress media uploader",
+  "homepage": "https://www.inventivo.de",
+  "license": "CC BY-ND",
+  "authors": [
+    {
+      "name": "Nils Harder",
+      "email": "nils.harder@inventivo.de",
+      "homepage": "https://www.inventivo.de"
+    }
+  ],
+  "type": "wordpress-plugin"
+}
